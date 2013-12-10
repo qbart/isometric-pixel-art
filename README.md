@@ -1,4 +1,4 @@
 isometric-pixel-art
 ===================
 
-Isometric Pixel Art GIMP script-fu Plugin
+Isometric Pixel Art GIMP Plugin
